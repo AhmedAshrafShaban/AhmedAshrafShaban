@@ -104,17 +104,6 @@ Security-audited e-commerce platform.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAshrafShaban&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAshrafShaban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=AhmedAshrafShaban&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
-
-</div>
 
 ---
 

@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=200&section=header&text=Ahmed%20Ashraf%20Shaban&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20AppSec%20Enthusiast&descAlignY=58&descColor=90e0ef" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-shaban-421b17300?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelkodary292@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedAshrafShaban)
 [![Location](https://img.shields.io/badge/Mansoura-Egypt-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white)]()

@@ -1,8 +1,14 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00b4d8&height=200&section=header&text=Ahmed%20Ashraf%20Shaban&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Junior%20Penetration%20Tester%20%7C%20AppSec%20Enthusiast&descAlignY=58&descColor=90e0ef" width="100%"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmedelkodary292@gmail.com)
-[![Location](https://img.shields.io/badge/Egypt-Mansoura-1a1a2e?style=flat-square)](https://github.com/AhmedAshrafShaban)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedelkodary292@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AhmedAshrafShaban)
+[![Location](https://img.shields.io/badge/Mansoura-Egypt-00b4d8?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+
+<br/>
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Breaking+things+so+others+don't+have+to;Junior+Penetration+Tester;AppSec+%7C+OWASP+Top+10+%7C+API+Security;PHP+Backend+%7C+Secure+Architecture)
 
 </div>
 
@@ -11,83 +17,115 @@
 ## whoami
 
 ```bash
+$ cat /etc/profile.d/ahmed.sh
+
 NAME="Ahmed Ashraf Shaban"
 ROLE="Junior Penetration Tester | AppSec Enthusiast | Backend Dev"
-UNIVERSITY="Mansoura University — Computer Science (GPA: 3.4/4.0, Class of 2027)"
-FOCUS="Web Application Security • OWASP Top 10 • API Hardening • Secure Architecture"
+UNIVERSITY="Mansoura University — CS (GPA: 3.4/4.0, Class of 2027)"
+FOCUS="Web AppSec • OWASP Top 10 • API Hardening • Secure Architecture"
 STATUS="Actively hunting bugs and building secure systems"
-` ``
+CERTS="CCST Cisco (2026) | Backend .NET ITI (2025)"
+```
 
-I don't just build authentication layers — I find where they break.
-Background in full-stack dev means I can read code, spot flaws, and understand the attack surface from the inside.
+> I don't just build authentication layers — **I find where they break.**
+> Full-stack background means I read code, spot flaws, and understand the attack surface from the inside.
 
 ---
 
-## Skills
+## Offense & Defense
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Offensive Security**
-` ``
-Web App Pentesting  │  OWASP Top 10 (SQLi, XSS, CSRF, DOM)
-Burp Suite          │  Manual Interception & Payload Crafting
-Auth Bypass         │  Session Auditing  │  Logical Flaws
-MITM / ARP Spoofing │  Wireshark  │  Network Traffic Analysis
-` ``
+- Web Application Penetration Testing
+- OWASP Top 10 (SQLi, XSS, CSRF, DOM)
+- Auth Bypass & Session Auditing
+- MITM / ARP Spoofing
+- Payload Crafting & Manual Interception
+- Burp Suite · Wireshark
+
+</td>
+<td valign="top" width="50%">
 
 **AppSec & Architecture**
-` ``
-Threat Modeling     │  Secure Code Review  │  RBAC
-JWT Auditing        │  API Security (OWASP API Top 10)
-Cryptographic Protocols  │  Access Control Design
-` ``
+- Threat Modeling & Secure Code Review
+- JWT Auditing (misconfiguration, expiry, storage)
+- RBAC & Access Control Design
+- OWASP API Security Top 10
+- Cryptographic Protocols
+- PHP · Python · Bash · Docker · Linux
 
-**Development & Tooling**
-` ``
-PHP  │  Python (Scripting)  │  Bash
-MySQL  │  SQL Server  │  RESTful APIs
-Git  │  Docker  │  Linux
-` ``
+</td>
+</tr>
+</table>
 
 ---
 
 ## Projects
 
-### [Clinic Management System](https://github.com/AhmedAshrafShaban/Dental-clinic)
-Secure backend system with AppSec baked in from day one
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Architected REST APIs with least-privilege design to mitigate SQLi risks
-- Implemented and audited JWT authentication — token misconfiguration, expiry flaws, storage risks
-- Stack: PHP / MySQL / REST
+### Dental Clinic Management System
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Security](https://img.shields.io/badge/OWASP-Hardened-red?style=flat-square)
+
+Secure full-stack clinic system built with security-first architecture.
+
+- Least-privilege REST API design (anti-SQLi)
+- JWT audit — misconfiguration, expiry, storage risks
+- RBAC access control layer
+
+[View Repo](https://github.com/AhmedAshrafShaban/Dental-clinic) · [Live Demo](https://dentalclinicpro.rf.gd/dental_clinic/index.php)
+
+</td>
+<td width="50%" valign="top">
+
+### E-Commerce Web Application
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![WIP](https://img.shields.io/badge/Status-In%20Progress-orange?style=flat-square)
+
+Security-audited e-commerce platform.
+
+- Auth flows against brute force & session hijacking
+- OWASP API Security Top 10 audit on all endpoints
+- Insecure credential handling hardening
+
+*In progress...*
+
+</td>
+</tr>
+</table>
 
 ---
 
-### E-Commerce Web Application (in progress)
-Auditing security while building — not after
+## GitHub Stats
 
-- Designed auth flows resistant to brute force, session hijacking, and insecure credential handling
-- Auditing API endpoints against OWASP API Security Top 10
-- Stack: PHP / MySQL / REST
+<div align="center">
 
----
+![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedAshrafShaban&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff)
 
-## Certifications
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAshrafShaban&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=ffffff)
 
-| Badge | Cert | Year |
-|-------|------|------|
-| CCST | Cisco Certified Support Technician | Apr 2026 |
-| .NET | Backend .NET from ITI | Feb 2025 |
+![GitHub Streak](https://streak-stats.demolab.com?user=AhmedAshrafShaban&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8)
+
+</div>
 
 ---
 
-## Currently
+## Roadmap
 
-- Doing hands-on labs — exploiting vulnerabilities, writing PoCs
-- Deepening knowledge in web app pentesting and API security
-- Building secure projects that double as security research
-- Target: eJPT → CEH → OSCP
 
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%"/>
 
 *"Security is not a feature — it's a mindset."*
 

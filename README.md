@@ -102,20 +102,5 @@ Security-audited e-commerce platform.
 </tr>
 </table>
 
----
 
 
----
-
-## Roadmap
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0d1117&height=100&section=footer" width="100%"/>
-
-*"Security is not a feature — it's a mindset."*
-
-</div>

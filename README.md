@@ -20,7 +20,7 @@
 $ cat /etc/profile.d/ahmed.sh
 
 NAME="Ahmed Ashraf Shaban"
-ROLE="Junior Penetration Tester | AppSec Enthusiast | Backend Dev"
+ROLE="Junior Penetration Tester | FullStack Developer | AppSec Enthusiast "
 UNIVERSITY="Mansoura University — CS (GPA: 3.4/4.0, Class of 2027)"
 FOCUS="Web AppSec • OWASP Top 10 • API Hardening • Secure Architecture"
 STATUS="Actively hunting bugs and building secure systems"

@@ -8,7 +8,7 @@
 
 <br/>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Breaking+things+so+others+don't+have+to;Junior+Penetration+Tester;AppSec+%7C+OWASP+Top+10+%7C+API+Security;PHP+Backend+%7C+FullStack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Breaking+things+so+others+don't+have+to;Junior+Penetration+Tester;AppSec+%7C+OWASP+Top+10+%7C+API+Security;FullStack+Developer+%7C+PHP+Backend)
 
 </div>
 
